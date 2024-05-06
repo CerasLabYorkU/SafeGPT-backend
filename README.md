@@ -6,9 +6,8 @@ SafeGPT Backend is a tool designed to anonymize user data using various methods,
 
 Anonymize user data using Microsoft Presidio Analyzer
 Anonymize user data using anonymizer Docker containers
-Utilize fine-tuned LLM models on AWS SageMaker for advanced anonymization
-Expose a public API for easy integration with external systems
-Seamless integration with public LLM APIs such as ChatGPT for sending anonymized data
+utilizing fine-tuned LLM models on AWS SageMaker for advanced anonymization.
+
 
 #### Usage
 
